@@ -69,7 +69,7 @@ artifacts/
 ScaffoldingReadMe.txt
 
 # StyleCop
-StyleCopReport.xml
+StyleCopReport.xmlg
 
 # Files built by Visual Studio
 *_i.c
